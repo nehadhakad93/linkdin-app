@@ -7,7 +7,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <p>
-            My LinkedIn Api
+            hello world
           </p>
         </header>
       </div>
